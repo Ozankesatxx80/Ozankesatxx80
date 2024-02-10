@@ -3,14 +3,14 @@
 ```js
 class Papaz {
     constructor(options) {
-        this.name = "Baran",
+        this.name = "Ozan",
         this.sex = "man",
-        this.length = "183",
-        this.type = "human",
+        this.length = "175",
+        this.type = "null",
         this.job = "developer",
-        this.weight = "78",
-        this.age = "21",
-        this.discord.tag = "Papaz#9999"
+        this.weight = "60",
+        this.age = "18",
+        this.discord.tag = "sadness_officall"
     };
 }
 
