@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1051491763572977695?hideDiscrim=true)](https://discord.com/users/1051491763572977695)
 
 ```js
-class Papaz {
+class sadness {
     constructor(options) {
         this.name = "Ozan",
         this.sex = "man",
@@ -14,7 +14,7 @@ class Papaz {
     };
 }
 
-module.exports = Papaz
+module.exports = sadness
 ```
 
 <h1 align="center">Mehaba Ozankesatx80</h1>
